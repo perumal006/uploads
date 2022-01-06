@@ -1,5 +1,5 @@
 type,id,unit_id,date,item_id,quantity,amount,memo
 owner,,1,,20,2,100,
 owner,,1,,20,1,50,
-owner,1,1,10,1,20
+owner,1,1,10,1,20,
 owner,1,1,5,1,40
