@@ -1,3 +1,3 @@
 type,id,unit_id,date,item_id,quantity,amount,memo
 owner,1,1,2022-01-06,20,2,100,test memo,
-folio,3,1,2022-01-06,20,2,100,test memo,
+owner,1,1,2022-01-06,20,2,100,test memo,
