@@ -1,3 +1,6 @@
 type,id,unit_id,date,item_id,quantity,amount,memo
 owner,1,1,2022-01-06,22,2,100,upload memo,
 owner,1,1,2022-01-06,22,2,100,folio memo,
+test,1,1,2022-01-06,22,2,100,folio memo,
+test,1,1,2022-01-06,22,0,100,folio memo,
+folio,1,1,2022-01-06,22,2,100,folio memo,
