@@ -1,3 +1,3 @@
-type,id,unit_id,date,item_id,quantity,amount,memo
+type,id,unitId,date,itemId,quantity,amount,memo
 owner,1,1,2022-01-06,22,2,100,upload memo,
 test,45,1,2022-01-06,22,2,100,folio memo,
