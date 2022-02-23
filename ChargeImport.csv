@@ -1,2 +1,2 @@
 type,id,unitId,date,itemId,quantity,amount,memo
-owner,1,,2021-12-23,22,2,100,Valid Owner
+owner,1,1,2021-12-23,22,2,100,Valid Owner
