@@ -1,9 +1,2 @@
 type,id,unitId,date,itemId,quantity,amount,memo
-test,45,1,2022-01-06,22,2,100,Invalid Type,
-owner,1,5000,2022-02-16,22,2,100,Invalid Unit,
-owner,45,1,2022-01-06,2222222,2,100,Invalid Items,
-folio,24545,1,2022-01-06,22,2,100,Invalid folio id,
-folio,45,1,2022-01-06,22,2,100,Valid folio,
-owner,45,1,2022-01-06,22,2,-100,Invalid amount,
-owner,1,1,2022-01-06,22,2,100,Valid owner,
-owner,1,0,2022-01-06,22,2,-100,Default Unit not found,
+housekeeping,2,4,2022-02-14,6,1,23,HK Test
