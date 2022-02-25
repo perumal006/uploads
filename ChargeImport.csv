@@ -1,2 +1,3 @@
 type,id,unitId,date,itemId,quantity,amount,memo
 folio,50,4,2022-02-24,6,1,30,Folio Test Of Alpha Perumal
+folio-owner,50,4,2022-02-24,6,1,35,Folio Test Of Alpha To Owner!!+
