@@ -1,5 +1,2 @@
 type,id,unitId,date,itemId,quantity,amount,memo
 folio,35,4,2022-02-24,6,1,30,Folio Test Of Alpha
-folio-owner,35,4,2022-02-24,6,1,35,Folio Test Of Alpha To Owner!!+
-maintenance,1,4,2022-02-14,6,1,12,Maintenance Test
-housekeeping,2,4,2022-02-14,6,1,23,HK Test
