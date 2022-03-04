@@ -1,6 +1,2 @@
 type,id,unitId,date,itemId,quantity,amount,memo
 owner,2,4,2022-02-22,6,1,25.25,Owner Charge From file import!
-folio,50,4,2022-02-24,6,1,30,Folio charge From file import!
-folio-owner,50,4,2022-02-24,6,1,35,Folio Owner charge From file import!
-maintenance,1,4,2022-02-14,6,1,12,Maintenance WO charge From file import!,
-housekeeping,4,2,2022-02-14,6,1,23,HK Test On 28th032020
