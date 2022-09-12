@@ -1,0 +1,2 @@
+type,id,unit_id,date,item_id,quantity,amount,memo
+folio,669,1,23/12/2021,16,1,1,Testing Owner Folio Import
